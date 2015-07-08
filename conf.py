@@ -300,21 +300,14 @@ extensions += [
 ]
 
 slide_title = 'Joys of Tech: Discovering Your Calling in a Tech Career'
-slide_theme = 'slides2'
+slide_theme = 'slides'
 slide_levels = 4
 
 # Place custom static assets in the _static directory and uncomment
 # the following lines to include them
 
 slide_theme_options = {
-    'presenters': [
-        {
-            'name': 'Seh Hui, Leong',
-            'company': 'Mindvalley',
-            'twitter': '@felixleong',
-            'github': 'https://github.com/felixleong/joyoftech_talk',
-        },
-    ]
+    'custom_css': 'slides_custom.css',
 }
 
 # ----------------------------------------------
