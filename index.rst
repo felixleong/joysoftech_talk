@@ -113,6 +113,12 @@ Start-up
 - More learn as you go *(mileage may vary)*
 - More flexibility
 
+Feeling Brave?
+==============
+
+- Start your own startup/freelancing business!
+- Participate in *Start-up accelerators*
+
 **************************
 Tools You Must Master ASAP
 **************************
@@ -135,10 +141,13 @@ The Tech Route
 
 - At least one programming language to master
 - Understand RFCs, specifications and documentation
-- 
+- Be comfortable reading library code
+- Learning testing techniques
 
 The People Route
 ================
+
+- 
 
 The Creative Route
 ==================
@@ -190,7 +199,45 @@ Technobabble
 
 - Cloud computing
 - Devops: Automation, Continuous Integration
-- 
+
+**************
+We Are Hiring!
+**************
+
+.. figure:: /_static/mv-logo.jpg
+    :class: fill
+
+    Copyright by Mindvalley, http://mindvalley.com/
+
+Join The Fun Bunch
+==================
+
+.. figure:: /_static/11080553_10152622729392245_3971791290848979285_o.jpg
+    :class: fill
+
+    Copyright by Mindvalley, http://mindvalley.com/
+
+Take Photo Now ;p
+=================
+
+- **Junior & Senior Web Developer** positions
+- Mostly Ruby on Rails
+- We accept interships too! :)
+- http://www.mindvalley.com/careers/
+
+*********
+Thank You
+*********
+
+**Questions?**
+
+- Twitter: `@felixleong`_
+- E-mail: `sehhui@mindvalley.com`_
+- GitHub: `felixleong/joysoftech_talk/`_
+
+.. _@felixleong: https://twitter.com/felixleong
+.. _sehhui@mindvalley.com: mailto:sehhui@mindvalley.com
+.. _felixleong/joysoftech_talk/: https://github.com/felixleong/joysoftech_talk/
 
 .. DEFINITIONS
 
