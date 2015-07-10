@@ -67,11 +67,7 @@ img.fill {
     left: -60px;
     letter-spacing: -2px;
     line-height: 1.2;
-    margin: 0 0 1.2em 0;
+    margin: 0 0 0.7em 0;
     padding: 0 0.7em 0 60px;
     position: relative;
-}
-.slides p {
-    background: rgba(255, 255, 255, 0.7);
-    border-radius: 10px;
 }

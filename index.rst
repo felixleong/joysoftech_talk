@@ -280,6 +280,24 @@ Some Examples
     - Devops: Automation, Continuous Integration
     - Functional programming, parallel processing
 
+*******************
+Now You Are Smarter
+*******************
+
+.. figure:: /_static/144232782_08246fb6c1_b.jpg
+    :class: fill
+
+    CC-BY-NC 2.0 https://flic.kr/p/dKeo7
+
+Summary
+=======
+
+- You have a lot of options: job-wise and your enivornment
+- What skills and tools you'd want to pick up now
+- Remember that you're working w/ humans and why communication skills are
+  important
+- … And have fun learning! :D
+
 **************
 We Are Hiring!
 **************
