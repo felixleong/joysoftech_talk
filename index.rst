@@ -32,6 +32,8 @@ So Many Possibilities!
         - Specialization of skills, greater variety of job specifications
         - Overflowing job market demand
 
+    - Greater tools and programming languages
+
 *********************
 Look At All The Jobs!
 *********************
@@ -86,6 +88,8 @@ Caveat: Your Learning Never Stops!
         - Reliance of third-party developers (i.e. in-house vs. outsourced
           development)
 
+    - Not to mention that different people have different interpretation of how
+      methodology may be intepreted
     - You'll be learning the ropes, regardless of your skill level
 
 ******************************
@@ -100,24 +104,45 @@ Choosing Your Starting Terrain
 Enterprise
 ==========
 
-- Smoother transition into the workforce
-- Expect more conventional tech stacks
-- Great place to behind-the-scene learning *(good and bad)*
-- Stricter corporate culture
+.. figure:: /_static/5536108050_7c56113aaf_b.jpg
+    :class: fill
+
+    CC-BY-NC-ND 2.0 https://flic.kr/p/9rd13N
+
+.. note::
+
+    - Smoother transition into the workforce
+    - Expect more conventional tech stacks
+    - Great place to behind-the-scene learning *(good and bad)*
+    - Stricter corporate culture
 
 Start-up
 ========
 
-- Utilizing more modern stacks == code are more fun to write
-- Have more room for experimentation
-- More learn as you go *(mileage may vary)*
-- More flexibility
+.. figure:: /_static/7631387476_9326867685_k.jpg
+    :class: fill
+
+    CC-BY-NC-SA 2.0 https://flic.kr/p/cCmRC9
+
+.. note::
+
+    - Utilizing more modern stacks == code are more fun to write
+    - Have more room for experimentation
+    - More learn as you go *(mileage may vary)*
+    - More flexibility
 
 Feeling Brave?
 ==============
 
-- Start your own startup/freelancing business!
-- Participate in *Start-up accelerators*
+.. figure:: /_static/2495386426_140d341ae6_o.jpg
+    :class: fill
+
+    CC-BY-NC-ND 2.0 https://flic.kr/p/4NvvrU
+
+.. note::
+
+    - Start your own startup/freelancing business!
+    - Participate in *Start-up accelerators*
 
 **************************
 Tools You Must Master ASAP
@@ -134,6 +159,7 @@ Baseline Across The Board
 - Code editor *(maybe two)*
 - Source control *(most likely Git)*
 - One scripting language
+- One markup language *(Markdown/ReStructuredText)*
 - Ability to read *(seriously)*
 
 The Tech Route
@@ -164,20 +190,54 @@ Other Ways to Level Up
 Communication Skills
 ====================
 
-Because you'll be working w/ **humans**.
+.. figure:: /_static/2046147678_f78e398fcb_b.jpg
+    :class: fill
+
+    CC-BY 2.0 https://flic.kr/p/47P3qf
+
+.. note::
+
+    - Because you'll be working w/ **humans**.
+    - It makes your life smoother and lesser headaches
 
 Be Active in Communities
 ========================
 
+.. figure:: /_static/523370_10150760112619540_471733573_n.jpg
+    :class: fill
+
+    Copyright by Danny Foo @ Webcamp KL, http://facebook.com/groups/webcamp/
+
+.. note::
+
+    - The best way to expand your network == friends and opportunity
+    - Great way to train yourself in people skills
+    - Share knowledge is a great way to establish cred
+    - **Shameless plug** `Webcamp KL @ LvlUp.KL on FB`_
+
+.. _Webcamp KL @ LvlUp.KL on FB: https://facebook.com/groups/webcamp/
+
 Develop Your Own Pet Projects
 =============================
+
+.. figure:: /_static/7827534416_7bbf2d2500_k.jpg
+    :class: fill
+
+    CC-BY 2.0 https://flic.kr/p/cVGagW
 
 Pick A Specialty and Own It
 ===========================
 
-- Technology stack
-- Management methodology
-- Domain knowledge
+.. figure:: /_static/4683377330_614d16df0c_b.jpg
+    :class: fill
+
+    CC-BY-NC-ND 2.0 https://flic.kr/p/88RwV1
+
+.. note::
+
+    - Technology stack
+    - Management methodology
+    - Domain knowledge
 
 ************************
 Other Things to Consider
@@ -191,14 +251,34 @@ Other Things to Consider
 Certification: Worth The Price?
 ===============================
 
-Location: Where to Work?
-========================
+.. figure:: /_static/5436687762_d617b29e9a_b.jpg
+    :class: fill
+
+    CC-BY-NC-ND 2.0 https://flic.kr/p/9hqrRU
+
+.. note::
+
+    - Makes better sense in the enterprise track *(especially the tech oriented
+      ones)*
+    - Some does yield great financial rewards *(Hint: SAP)*
+    - Agile/SCRUM Master certification is quite valued in mid-stage startups
 
 Technobabble
 ============
 
-- Cloud computing
-- Devops: Automation, Continuous Integration
+.. figure:: /_static/6553702109_85a9bea0d2_b.jpg
+    :class: fill
+
+    CC-BY-NC 2.0 https://flic.kr/p/aZ8riX
+
+Some Examples
+-------------
+
+    - TDD/BDD
+    - Responsive design
+    - Cloud computing
+    - Devops: Automation, Continuous Integration
+    - Functional programming, parallel processing
 
 **************
 We Are Hiring!
@@ -212,7 +292,7 @@ We Are Hiring!
 Join The Fun Bunch
 ==================
 
-.. figure:: /_static/11080553_10152622729392245_3971791290848979285_o.jpg
+.. figure:: /_static/IMG-244.jpg
     :class: fill
 
     Copyright by Mindvalley, http://mindvalley.com/

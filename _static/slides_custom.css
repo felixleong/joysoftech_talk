@@ -1,3 +1,7 @@
+img.fill {
+    max-height: 100%;
+    max-width: none;
+}
 .slides .caption {
     color: black;
     background: rgba(255, 255, 255, 0.45);
@@ -66,4 +70,8 @@
     margin: 0 0 1.2em 0;
     padding: 0 0.7em 0 60px;
     position: relative;
+}
+.slides p {
+    background: rgba(255, 255, 255, 0.7);
+    border-radius: 10px;
 }
