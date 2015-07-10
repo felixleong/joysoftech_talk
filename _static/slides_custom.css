@@ -1,3 +1,6 @@
+strong {
+    color: rgb(0, 118, 163);
+}
 img.fill {
     max-height: 100%;
     max-width: none;
@@ -10,7 +13,7 @@ img.fill {
     border-top-right-radius: 10px;
 }
 .slides > article {
-    font-size: 45px;
+    font-size: 40px;
 }
 .slides > article.level-1 {
     padding-right: 0px;

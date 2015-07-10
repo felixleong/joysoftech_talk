@@ -29,6 +29,7 @@ So Many Possibilities!
         - Sharing of in-depth knowledge: from best practices, management
           approaches, behind-the-scene infrastructure, design decisions, open
           source code
+        - Better awareness of what's happening behind the scenes
         - Specialization of skills, greater variety of job specifications
         - Overflowing job market demand
 
@@ -47,9 +48,10 @@ The Tech Class
 ==============
 
 - Programmer
-- Software Tester
-- Sysops
-- DB Administration
+- Software tester
+- System administrator
+- Data analyst
+- Tools developer
 
 The People Class
 ================
@@ -67,30 +69,6 @@ The Creative Class
 - Game Designer
 - UX Designer
 - VFX Designer
-
-**********************************
-Caveat: Your Learning Never Stops!
-**********************************
-
-.. figure:: /_static/5354202837_afd20d5857_o.jpg
-    :class: fill
-
-    CC-BY 2.0 https://flic.kr/p/9a8FY2
-
-.. note::
-
-    Why schools can't prepare you 100%
-
-    - Each company is its own unique technological beast:
-
-        - Project management methodology
-        - Technology stack
-        - Reliance of third-party developers (i.e. in-house vs. outsourced
-          development)
-
-    - Not to mention that different people have different interpretation of how
-      methodology may be intepreted
-    - You'll be learning the ropes, regardless of your skill level
 
 ******************************
 Choosing Your Starting Terrain
@@ -128,7 +106,7 @@ Start-up
 
     - Utilizing more modern stacks == code are more fun to write
     - Have more room for experimentation
-    - More learn as you go *(mileage may vary)*
+    - Learn as you go *(mileage may vary)*
     - More flexibility
 
 Feeling Brave?
@@ -142,6 +120,8 @@ Feeling Brave?
 .. note::
 
     - Start your own startup/freelancing business!
+    - … and why not? There's a lot of untapped potential, underserved
+      industries and new opportunities abound
     - Participate in *Start-up accelerators*
 
 **************************
@@ -162,21 +142,68 @@ Baseline Across The Board
 - One markup language *(Markdown/ReStructuredText)*
 - Ability to read *(seriously)*
 
-The Tech Route
-==============
+Additional Skills Going Into the Tech Route
+===========================================
 
 - At least one programming language to master
 - Understand RFCs, specifications and documentation
 - Be comfortable reading library code
 - Learning testing techniques
 
-The People Route
-================
+**********************************
+Caveat: Your Learning Never Stops!
+**********************************
 
-- 
+.. figure:: /_static/5354202837_afd20d5857_o.jpg
+    :class: fill
 
-The Creative Route
-==================
+    CC-BY 2.0 https://flic.kr/p/9a8FY2
+
+.. note::
+
+    Why schools can't prepare you 100%
+
+    - Everything changes **so rapidly**: there's always a promise of something
+      faster, more efficient and bad-ass in the horizon -- be it tech stack,
+      best practices, methodology, business trends, consumer demands etc.
+    - Each company is its own unique technological beast:
+
+        - Project management methodology
+        - Technology stack
+        - Reliance of third-party developers (i.e. in-house vs. outsourced
+          development)
+        - Quality of internal staff and code
+
+    - Not to mention that different people have different interpretation of how
+      methodology may be intepreted
+    - You'll be learning the ropes, regardless of your skill level
+
+Technobabble Samples
+====================
+
+- TDD/BDD
+- Agile methodology
+- Responsive design
+- Cloud computing
+- Devops: Automation, Continuous Integration
+- Functional programming, parallel processing
+
+Certification: Worth The Price?
+===============================
+
+.. figure:: /_static/5436687762_d617b29e9a_b.jpg
+    :class: fill
+
+    CC-BY-NC-ND 2.0 https://flic.kr/p/9hqrRU
+
+.. note::
+
+    - Makes better sense in the enterprise track *(especially the tech oriented
+      ones)*
+    - Some does yield great financial rewards *(Hint: SAP)*
+    - Only applicable as much as corporations value them
+    - Hint: Agile/SCRUM Master certification is quite valued in both corporate
+      and mid-stage startups nowadays
 
 **********************
 Other Ways to Level Up
@@ -199,6 +226,17 @@ Communication Skills
 
     - Because you'll be working w/ **humans**.
     - It makes your life smoother and lesser headaches
+    - Boils down to WII.FM -- What's In It For Me
+
+        - Learn to understand what your customer/manager wants and know to ask
+          enough questions to **truly** understand them
+        - Learn how to establish expectations in terms of deliverables
+        - Know enough people dynamics and politics to make communications
+          efficient
+        - … And being assertive, firm and confident
+
+    - Better learn up these skills when you are having your team assignments,
+      **the working life is pretty much the same situation**
 
 Be Active in Communities
 ========================
@@ -212,9 +250,13 @@ Be Active in Communities
 
     - The best way to expand your network == friends and opportunity
     - Great way to train yourself in people skills
-    - Share knowledge is a great way to establish cred
+    - Share knowledge is a great way to establish cred and increasing your
+      `luck surface area`_
     - **Shameless plug** `Webcamp KL @ LvlUp.KL on FB`_
+    - … and there are tons of targeted groups based on programming languages,
+      popular frameworks, focus groups, technologies…
 
+.. _luck surface area: http://www.codusoperandi.com/posts/increasing-your-luck-surface-area
 .. _Webcamp KL @ LvlUp.KL on FB: https://facebook.com/groups/webcamp/
 
 Develop Your Own Pet Projects
@@ -224,6 +266,19 @@ Develop Your Own Pet Projects
     :class: fill
 
     CC-BY 2.0 https://flic.kr/p/cVGagW
+
+.. note::
+
+    - Giving you the freedom of exploring new stuff, be it:
+
+        - Programming language
+        - Framework
+        - Library
+        - Development approach
+
+    - Learn by Doing™ can be one of the most effective ways of learning
+    - Solve your own problems/scratch your own itch
+    - Could turn out to be the next startup idea
 
 Pick A Specialty and Own It
 ===========================
@@ -235,53 +290,18 @@ Pick A Specialty and Own It
 
 .. note::
 
-    - Technology stack
-    - Management methodology
-    - Domain knowledge
+    - Speciality comes in many forms:
 
-************************
-Other Things to Consider
-************************
+        - Technology stack
+        - Management methodology
+        - Domain knowledge
+        - … or even how the company runs and make things happen fast
 
-.. figure:: /_static/6825992286_94fb9db219_o.jpg
-    :class: fill
-
-    CC-BY-NC-ND 2.0 https://flic.kr/p/bpbZGb
-
-Certification: Worth The Price?
-===============================
-
-.. figure:: /_static/5436687762_d617b29e9a_b.jpg
-    :class: fill
-
-    CC-BY-NC-ND 2.0 https://flic.kr/p/9hqrRU
-
-.. note::
-
-    - Makes better sense in the enterprise track *(especially the tech oriented
-      ones)*
-    - Some does yield great financial rewards *(Hint: SAP)*
-    - Agile/SCRUM Master certification is quite valued in mid-stage startups
-
-Technobabble
-============
-
-.. figure:: /_static/6553702109_85a9bea0d2_b.jpg
-    :class: fill
-
-    CC-BY-NC 2.0 https://flic.kr/p/aZ8riX
-
-Some Examples
--------------
-
-    - TDD/BDD
-    - Responsive design
-    - Cloud computing
-    - Devops: Automation, Continuous Integration
-    - Functional programming, parallel processing
+    - The 10,000 Hours rule: i.e. it takes both talent and time to hone in your
+      skills to mastery
 
 *******************
-Now You Are Smarter
+You Are Now Smarter
 *******************
 
 .. figure:: /_static/144232782_08246fb6c1_b.jpg
@@ -292,11 +312,11 @@ Now You Are Smarter
 Summary
 =======
 
-- You have a lot of options: job-wise and your enivornment
-- What skills and tools you'd want to pick up now
-- Remember that you're working w/ humans and why communication skills are
+- You have **a lot of options**: job-wise and your environment
+- What **skills and tools** you'd want to pick up now
+- **Remember that you're working w/ humans** and why communication skills are
   important
-- … And have fun learning! :D
+- … And **have fun learning!** :D
 
 **************
 We Are Hiring!
@@ -320,7 +340,7 @@ Take Photo Now ;p
 
 - **Junior & Senior Web Developer** positions
 - Mostly Ruby on Rails
-- We accept interships too! :)
+- We provide internships too! :)
 - http://www.mindvalley.com/careers/
 
 *********
