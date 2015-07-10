@@ -90,7 +90,8 @@ Enterprise
 .. note::
 
     - Smoother transition into the workforce
-    - Expect more conventional tech stacks
+    - Expect more conventional tech stacks as their systems are usually
+      maintained for a long period of time: especially mission critical systems
     - Great place to behind-the-scene learning *(good and bad)*
     - Stricter corporate culture
 
@@ -107,6 +108,8 @@ Start-up
     - Utilizing more modern stacks == code are more fun to write
     - Have more room for experimentation
     - Learn as you go *(mileage may vary)*
+    - Requires a great deal of adaptability as the company scales means that
+      your solution may fall apart as the business grows
     - More flexibility
 
 Feeling Brave?
@@ -122,6 +125,7 @@ Feeling Brave?
     - Start your own startup/freelancing business!
     - … and why not? There's a lot of untapped potential, underserved
       industries and new opportunities abound
+    - Quite a lot of remote working opportunities as well
     - Participate in *Start-up accelerators*
 
 **************************
