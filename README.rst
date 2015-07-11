@@ -18,6 +18,8 @@ your own, only condition being that:
 1. My work is attributed
 2. Share your remixed work for the benefit of others :)
 
+Instruction
+===========
 To generate your slide deck and speaker notes, perform the following:
 
 1. The primary file to edit is the `index.rst` file in this folder, which
