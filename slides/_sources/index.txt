@@ -355,6 +355,7 @@ Thank You
 
 - Twitter: `@felixleong`_
 - E-mail: `sehhui@mindvalley.com`_
+- Speaker Note: http://felixleong.github.io/joysoftech_talk/
 - GitHub: `felixleong/joysoftech_talk/`_
 
 .. _@felixleong: https://twitter.com/felixleong
